@@ -1,0 +1,19 @@
+# BuscoCasa - Catálogo Inmobiliario de Ciudad Obregón, Sonora
+
+> BuscoCasa es un portal inmobiliario enfocado en la compra, venta y financiamiento de casas, departamentos y terrenos en Ciudad Obregón, Sonora, México.
+
+## Ubicación Geográfica
+- Ciudad: Ciudad Obregón
+- Municipio: Cajeme
+- Estado: Sonora
+- País: México
+- Coordenadas: 27.4864, -109.9408
+
+## Tipos de Propiedades y Créditos
+- Opciones con créditos Infonavit, FOVISSSTE, Crédito Bancario y pago de Contado.
+- Inventario disponible: 116 propiedades activas.
+- Datos en tiempo real disponibles en formato JSON: `/public_data.json`
+
+## Contacto & Enlaces
+- Web: https://buscocasa.mx/
+- API/Dataset: /public_data.json
